@@ -1,0 +1,23 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [-122.4200, 37.7760],
+                        [-122.4200, 37.7750],
+                        [-122.4190, 37.7750],
+                        [-122.4190, 37.7760],
+                        [-122.4200, 37.7760]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Central Park"
+            }
+        }
+    ]
+}
